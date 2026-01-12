@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Master Tic-Tac-Toe",
+  "description": "A visually stunning Tic-Tac-Toe game featuring a modern neon aesthetic and an optional AI opponent powered by Google's Gemini 3 Flash model for strategic moves and witty commentary.",
+  "requestFramePermissions": []
+}
